@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Prince Malviya</h1>
 <h3 align="center">B.Tech Student | Java Full-Stack Developer in Progress | Future MLOps Engineer 🚀</h3>
 
 ---
