@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Prince3066
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">B.Tech Student | Java Full-Stack Developer in Progress | Future MLOps Engineer 🚀</h3>
 
-<!---
-Prince3066/Prince3066 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌱 **Currently Learning**  
+- Java Full-Stack Development (Core Java, Spring Boot, React.js)  
+- Building REST APIs and web applications  
+- Version control, CI/CD & DevOps basics  
+- Backend + frontend integration for real-world projects  
+
+💡 **What I'm Working On**  
+- 🧑‍💻 Java + Spring Boot backend systems  
+- 🌐 Dynamic web dashboards using React.js  
+- 📦 Understanding DevOps workflows with Docker & GitHub Actions  
+- (Previously) Built a Smart Attendance System with live location & footage tracking  
+
+🛠 **Tech Stack**  
+```java
+Languages: Java, Python, C, JavaScript, HTML/CSS
+Frameworks: Spring Boot, React.js, Flask (basic)
+Tools: Git, Postman, Docker, VSCode, IntelliJ IDEA
+Database: MySQL, MongoDB
