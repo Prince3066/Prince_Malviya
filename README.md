@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Malviya</h1>
-<h3 align="center">B.Tech Student | Java Full-Stack Developer in Progress | Future MLOps Engineer 🚀</h3>
+<h3 align="center">B.Tech Student | Java Full-Stack Developer in Progress | Future MLOps Engineer </h3>
 
 ---
 
