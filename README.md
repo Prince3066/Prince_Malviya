@@ -13,7 +13,6 @@
 - 🧑‍💻 Java + Spring Boot backend systems  
 - 🌐 Dynamic web dashboards using React.js  
 - 📦 Understanding DevOps workflows with Docker & GitHub Actions  
-- (Previously) Built a Smart Attendance System with live location & footage tracking  
 
 🛠 **Tech Stack**  
 ```java
