@@ -5,7 +5,8 @@
 
 🌱 **Currently Learning**  
 - Python Full-Stack Development (Core Java, Spring Boot, React.js)  
-- Building REST APIs and web applications  
+- Building REST APIs and web applications
+- Practicing DSA in Java
 - Version control, CI/CD & DevOps basics  
 - Backend + frontend integration for real-world projects  
 
