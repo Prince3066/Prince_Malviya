@@ -4,7 +4,7 @@
 ---
 
 🌱 **Currently Learning**  
-- Python Full-Stack Development (Core Java, Spring Boot, React.js)  
+- Python Full-Stack Development (JavaScrip, React.js, Django, Core Java, GIT)  
 - Building REST APIs and web applications
 - Practicing DSA in Java
 - Version control, CI/CD & DevOps basics  
@@ -18,6 +18,6 @@
 🛠 **Tech Stack**  
 ```Python
 Languages: Python, JavaScript, Java HTML/CSS
-Frameworks: Django, React.js, Flask (basic)
+Frameworks: Django, React.js
 Tools: Git, Postman, Docker, VSCode, Anaconda
 Database: MySQL, MongoDB
